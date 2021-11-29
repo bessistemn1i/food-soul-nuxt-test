@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 12px;
+  background-color: #a5d3c7;
+  color: #000000;
+  box-shadow: none;
+  border: 1px solid rgb(84, 171, 206);
+  border-radius: 10px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
